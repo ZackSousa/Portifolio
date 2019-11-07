@@ -1,0 +1,25 @@
+.perfilConteudo {
+    display: flex;
+    height: 75vh;
+    width: 100vw;
+    background-color: #bbb;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: #000;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.foto {
+    display: flex;
+    width: 350px;
+    height: 350px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.texto{
+    text-align: center;
+    margin-left: 10px;
+    font-size: 2.5rem;
+}
